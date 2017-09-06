@@ -1,4 +1,4 @@
-# Video Player Website (In Prog)
+# Video Player Website (In Progress)
 
 ### Getting Started
 
